@@ -1,3 +1,4 @@
 /data/*
 /script/dnn_best_model/*
 /script/dnn_save_path/*
+*.pyc
